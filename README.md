@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Jhon Deybi Martinez Herrera 👋
 
-<!--
-**deybiyt98/deybiyt98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador de software en formación
 
-Here are some ideas to get you started:
+Soy estudiante de desarrollo de software, interesado en la programación, las bases de datos y la creación de aplicaciones que solucionen problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis habilidades mediante proyectos académicos y prácticos.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- ☕ Java
+- 🗄️ MySQL
+- 🔌 JDBC
+- 🖥️ Java Swing
+- 🌐 Git y GitHub
+- 💻 Visual Studio Code
+
+### 🚀 Proyecto destacado
+
+#### JETRO – Sistema de gestión empresarial
+
+Aplicación desarrollada con Java y MySQL para gestionar inventario, producción, clientes, ventas y pagos.
+
+🔗 [Ver repositorio JETRO](https://github.com/deybiyt98/JETRO-2)
+
+---
+
+### 🎯 Actualmente aprendiendo
+
+- Programación orientada a objetos.
+- Desarrollo de aplicaciones.
+- Diseño y administración de bases de datos.
+- Buenas prácticas de desarrollo de software.
+
+---
+
+### 📫 Encuéntrame en GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-deybiyt98-black?logo=github)](https://github.com/deybiyt98)
+
+---
+
+*Aprendiendo, creando y mejorando cada día.* 🚀
